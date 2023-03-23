@@ -2,7 +2,7 @@
 title: TOP
 description: 
 published: true
-date: 2023-03-23T17:39:03.519Z
+date: 2023-03-23T17:39:41.027Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-23T15:21:28.033Z
@@ -17,4 +17,4 @@ BLUE PROTOCOL のWIKIです。
 
 ## 直近の生放送
 ### 2023/03/28 20:00~
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kgFkRcj_4tc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/kgFkRcj_4tc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
