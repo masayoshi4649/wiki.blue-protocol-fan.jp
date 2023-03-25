@@ -2,7 +2,7 @@
 title: TOP
 description: 
 published: true
-date: 2023-03-25T15:19:24.887Z
+date: 2023-03-25T15:24:37.441Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-23T15:21:28.033Z
@@ -14,3 +14,6 @@ BLUE PROTOCOL のWIKIです。
 
 # イベントカレンダー
 <div id="calendar"></div>
+
+## 直近の生放送
+<div id="live"></div>
