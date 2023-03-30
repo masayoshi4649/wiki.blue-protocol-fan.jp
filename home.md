@@ -2,7 +2,7 @@
 title: TOP
 description: BLUE PROTOCOL WIKI
 published: true
-date: 2023-03-30T04:43:48.465Z
+date: 2023-03-30T04:44:00.674Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-23T15:21:28.033Z
@@ -15,7 +15,7 @@ BLUE PROTOCOL のWIKIです。
 #### ネットワークテスト事前ダウンロード開始
 https://blue-protocol.com/news/52
 
-##### ネットワークテスト不具合一覧
+#### ネットワークテスト不具合一覧
 https://blue-protocol.com/news/56
 
 
