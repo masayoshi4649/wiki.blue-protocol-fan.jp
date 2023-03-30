@@ -2,7 +2,7 @@
 title: TOP
 description: BLUE PROTOCOL WIKI
 published: true
-date: 2023-03-30T05:18:02.163Z
+date: 2023-03-30T05:21:34.967Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-23T15:21:28.033Z
@@ -13,9 +13,8 @@ BLUE PROTOCOL のWIKIです。
 
 # お知らせ
 ## ネットワークテスト関連
-### [NT事前ダウンロード開始](https://blue-protocol.com/news/52)
 
-### [NTについて](https://blue-protocol.com/news/53)
+### [ネットワークテストに当選された方へのご案内](https://blue-protocol.com/news/53)
 + ネットワークテスト版のプレイ可能範囲・ゲーム仕様について
 + ネットワークテスト中の計画メンテナンス実施について
 + アイテム配布実施について
@@ -25,7 +24,12 @@ BLUE PROTOCOL のWIKIです。
 	+ 報酬プラス受け取り回数の回復量を6に増加
 + クライアントのインストールについて
 
-### [NT既知の不具合一覧](https://blue-protocol.com/news/56)
+### [現在確認されている不具合について](https://blue-protocol.com/news/56)
+
+### [ネットワークテスト版のゲームクライアント事前ダウンロード開始ならびにプレイガイド公開のご案内](https://blue-protocol.com/news/52)
++ ゲームクライアントダウンロード方法
++ プレイガイドの公開について
+
 
 # イベントカレンダー
 <div id="calendar"></div>
